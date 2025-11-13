@@ -176,7 +176,7 @@ We have released the **MiroThinker v0.1** series, including both SFT and DPO var
 ### MiroThinker-v1.0
 
 <div align="center">
-  <img src="https://huggingface.co/datasets/miromind-ai/MiroFlow-Benchmarks/resolve/main/assets/MiroThinker_v1.0_Performance_2.png" width="90%" alt="MiroThinker" />
+  <img src="https://huggingface.co/datasets/miromind-ai/MiroFlow-Benchmarks/resolve/main/assets/MiroThinker_v1.0_Performance_2.png" width="100%" alt="MiroThinker" />
 </div>
 
 ### MiroThinker-v0.2
